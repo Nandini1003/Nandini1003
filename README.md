@@ -15,7 +15,7 @@
 
 ---
 
-### 🔥 Languages & Frameworks & Tools & Abilities 🔥
+### 🔥 Languages, Frameworks & Tools🔥
 
 <p align="center">
   <!-- Languages -->
