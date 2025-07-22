@@ -4,7 +4,7 @@
 ---
 
 🚀 Passionate about building intelligent systems that solve real-world problems through Artificial Intelligence and automation.  
-🎓 Graduated with M.Sc in Artificial Intelligence and Data Science  
+🎓 Graduated with M.Sc in Artificial Intelligence and Data Science.  
 💼 Open to roles in AI Engineering, Prompt Engineering, Data Science, and Workflow Automation  
 🌱 Currently exploring: LangChain, Streamlit, Prompt Engineering, RAG Systems, n8n, LLM  
 📫 Reach me: **vnandini1003@gmail.com**
